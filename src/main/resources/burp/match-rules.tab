@@ -1,4 +1,5 @@
 (.*[vV][eE][rR][sS][iI][oO][nN].*)	1	Version	Low	Certain
+Liferay-Portal:(.*)	1	Version	Low	Certain
 \$gwt_version\s?=\s?"([\d.]+)"	1	Google Web Toolkit (GWT)	Low	Certain
 accounting\.js v([\d.]+)	1	accounting.js	Information	Certain
 akka-http/([\d.]+)	1	Akka HTTP	Low	Certain
